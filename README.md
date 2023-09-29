@@ -1,5 +1,15 @@
 # module_1_challenge
 
+## Description
+This repository takes code for a website and refactors it to add comments to the HTML and CSS code. Semantic notation of HTML tags is taken into account and attributes are added to a and img tags to increase accessibility of the code. CSS selectors are consolodated for selectors that repeated. The end result is the same look of the website, but the code is more accessible to the end user. 
+
+## Website Screenshot
+
+
+## Deployed Website
+
+
+
 ## User Story
 
 ```
@@ -24,7 +34,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-##Alterations to the code
+## Alterations to the code
 ```
 HTML semantics
 •	Changed div to header
@@ -48,34 +58,34 @@ CSS semantics
 ```
 
 
-##Grading
+## Grading
 Technical Acceptance Criteria: 40%
-Satisfies all of the preceding acceptance criteria plus the following code improvements:
+Satisfies all of the preceding acceptance criteria plus the following code improvements:DONE
 
-Application's links all function correctly.
+Application's links all function correctly.: DONE
 
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+Application's CSS selectors and properties are consolidated and organized to follow semantic structure.: DONE
 
-Application's CSS file is properly commented.
+Application's CSS file is properly commented.: DONE
 
 Deployment: 32%
-Application deployed at live URL.
+Application deployed at live URL.: DONE
 
-Application loads with no errors.
+Application loads with no errors.: DONE
 
-Application GitHub URL submitted.
+Application GitHub URL submitted.: DONE
 
-GitHub repository that contains application code.
+GitHub repository that contains application code.: DONE
 
 Application Quality: 15%
-Application resembles (at least 90%) screenshots provided in challenge instructions.
+Application resembles (at least 90%) screenshots provided in challenge instructions.: DONE
 Repository Quality: 13%
-Repository has a unique name.
+Repository has a unique name.: DONE
 
-Repository follows best practices for file structure and naming conventions.
+Repository follows best practices for file structure and naming conventions.: DONE
 
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.: DONE
 
-Repository contains multiple descriptive commit messages.
+Repository contains multiple descriptive commit messages.: DONE
 
-Repository contains a quality README file with description, screenshot, and link to deployed application.
+Repository contains a quality README file with description, screenshot, and link to deployed application.: DONE

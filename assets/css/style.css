@@ -26,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-/*Class selector applied to header class and all section tags*/
+/*Class selector applied to header class and section tag*/
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -73,7 +73,7 @@ p {
     margin-right: 25px;
 }
 
-/*Class selector applied to float-right class (images in the Online Reputation Management section)*/
+/*Class selector applied to float-right class (image in the Online Reputation Management section)*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -98,7 +98,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Josh added this selector to consolorate the benefit content since there was repetition*/
+/* Josh added this selector to consolodate the benefit content since there was repetition*/
 /*Class selector applied to benefit-lead-brand-cost class*/
 .benefit-lead-brand-cost {
     margin-bottom: 32px;
@@ -115,6 +115,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Josh added this selector to consolodate the benefit content since there was repetition*/
 /*Class selector applied to content-subsections class*/
 .content-subsections {
     margin-bottom: 20px;
@@ -133,7 +134,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 /*Class selector applied to footer class*/
 .footer {
     padding: 30px;
