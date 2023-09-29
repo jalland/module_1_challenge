@@ -4,6 +4,7 @@
 This repository takes code for a website and refactors it to add comments to the HTML and CSS code. Semantic notation of HTML tags is taken into account and attributes are added to a and img tags to increase accessibility of the code. CSS selectors are consolodated for selectors that repeated. The end result is the same look of the website, but the code is more accessible to the end user. 
 
 ## Website Screenshot
+![Deployed_Site_Image](https://github.com/jalland/module_1_challenge/assets/15932648/73e08a86-ef0d-4607-b86d-84ca00967511)
 
 
 ## Deployed Website
