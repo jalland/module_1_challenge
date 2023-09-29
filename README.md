@@ -24,6 +24,28 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+##Alterations to the code
+```
+HTML semantics
+•	Changed div to header
+•	Replaced all other div tags with section tags
+•	Changed the title to “Horiseon Social Solution Services Website” to be concise and descriptive.
+•	Did not change span, as I did not know an equivalent semantic tag to use. 
+•	Added comments throughout HTML document. 
+•	All a tags (links) have a title attribute.
+•	All img tags have an alternative description.
+•	The elements have a logical structure and are indented for child elements.
+•	Heading attributes fall in sequential order. 
+
+
+CSS semantics
+•	Replaced all div with section.
+•	CSS comments added throughout the document. 
+•	Consolidation of CSS selectors with semantic structure:
+	    Added benefit-lead-brand-cost selector to consolidate multiple selectors with the same information.
+	    Added content-subsections class to consolidate multiple selectors with the same information.
+
+```
 
 
 ##Grading
